@@ -178,6 +178,7 @@ main{
     padding: 0.8rem 1.2rem;
     border-radius: 20px;
     font-size: 1.2rem;
+    color: #6a1b9a;
     font-weight: 600;
     letter-spacing: 0.1rem;
     transition: background-color .5s  ease;
@@ -193,7 +194,7 @@ main{
     text-decoration: none;
     background-color: lightgray;
     color: black;
-    padding: 0.7rem 1.5rem;
+    padding: 0.7rem 2rem;
     border-radius: 20px;
     font-size: 1.2rem;
     font-weight: 600;
