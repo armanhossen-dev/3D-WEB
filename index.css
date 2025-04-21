@@ -256,7 +256,7 @@ main{
     }
     
     header h1{
-        font-size: 2rem;
+        font-size: 1.9rem;
     }
 
     .btn_sin{
@@ -264,7 +264,7 @@ main{
     }
 
     .robot_3d{
-        scale: 0.5;
+        scale: 0.45;
         top: -25%;
         right: 0;
     }
@@ -280,19 +280,19 @@ main{
     }
 
     .content h1{
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 
     .description{
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
 
     .btn_get_started{
-        font-size: 0.8rem;
+        font-size: 0.7rem;
         padding: 0.5rem 1.2rem;
     }
     .btn_sigining_main{
-        font-size: 0.8rem;
+        font-size: 0.7rem;
         padding: 0.5rem 2rem;
     }
 }
