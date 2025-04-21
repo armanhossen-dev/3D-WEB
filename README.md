@@ -19,7 +19,7 @@ Check out the live version here: [🔗 Live Site](https://ahrn.vercel.app/))
 - **CSS3** – Styling and responsiveness  
 - **Spline** – 3D design and interactive elements  
 - **AOS (Animate On Scroll)** – Scroll animations ([AOS website](https://michalsnik.github.io/aos/))  
-- **JavaScript** *(if used)* – for interactivity and effects
+- **JavaScript**  – for interactivity and effects
 
 ## ✨ Features
 
