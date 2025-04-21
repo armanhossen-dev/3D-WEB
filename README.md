@@ -28,6 +28,3 @@ Check out the live version here: [🔗 Live Site](https://ahrn.vercel.app/))
 - Smooth animations and transitions  
 - Scroll-triggered animations using AOS  
 - Clean, modern UI
-
-## 📁 Project Structure
-
